@@ -1,33 +1,39 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
+      "cpa_image":"yandex",
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"admob",
-      "inter_type":"admob",
-      "native_type":"admob",
-      "reward_type":"admob",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2150056-1",
+      "native_yandex":"R-M-2150056-2",
+      "interstitial_yandex":"R-M-2150056-3",
+      "rewarde_yandex":"R-M-2150056-4",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
-      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+      
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
@@ -47,76 +53,76 @@
     },
     "skins": [
     {
-      "imageUrl": "https://iili.io/HYEYEej.jpg",
-      "title": "Mod Pack 1",
-      "likeNumbers": "2622 LIKES",
-      "commentNumbers": " 3133 COMMENTS",
-      "downloadNumbers": "4544 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
 
 
       
     },
     {
-      "imageUrl": "https://iili.io/HYEY15b.jpg",
-      "title": "Mod Pack 2",
-      "likeNumbers": "2122 LIKES",
-      "commentNumbers": " 3353 COMMENTS",
-      "downloadNumbers": "4404 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
 
       
     },
     {
-      "imageUrl": "https://iili.io/HYEYGmx.jpg",
-      "title": "Mod Pack 3",
-      "likeNumbers": "2822 LIKES",
-      "commentNumbers": " 3133 COMMENTS",
-      "downloadNumbers": "4344 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
 
       
     }
     ,{
-      "imageUrl": "https://iili.io/HYEY0du.jpg",
-      "title": "Mod Pack 4",
-      "likeNumbers": "2252 LIKES",
-      "commentNumbers": " 3833 COMMENTS",
-      "downloadNumbers": "4644 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
 
 
       
     },
     {
-      "imageUrl": "https://iili.io/HYEYVzQ.jpg",
-      "title": "Mod Pack 5",
-      "likeNumbers": "2622 LIKES",
-      "commentNumbers": " 3033 COMMENTS",
-      "downloadNumbers": "4474 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
     },
     {
-      "imageUrl": "https://iili.io/HYEYWXV.jpg",
-      "title": "Mod Pack 6",
-      "likeNumbers": "2922 LIKES",
-      "commentNumbers": " 3323 COMMENTS",
-      "downloadNumbers": "4544 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
      
     },
     {
-      "imageUrl": "https://iili.io/HYEYXLB.jpg",
-      "title": "Mod Pack 7",
-      "likeNumbers": "2212 LIKES",
-      "commentNumbers": " 3363 COMMENTS",
-      "downloadNumbers": "4944 DOWNLOADS",
-      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
     }
   ], "Apps": [
